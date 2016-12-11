@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Habits.xcodeproj">
+      location = "self:/Users/olle/Documents/Repositories/EventTracker/EventTracker/Habits/Habits.xcodeproj">
    </FileRef>
 </Workspace>
